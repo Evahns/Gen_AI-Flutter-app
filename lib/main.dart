@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
         length: 2,
         child: Scaffold(
             appBar: AppBar(
-              title: const Text("Google Gemini"),
+              title: const Text("VizuoSense Assistant"),
               centerTitle: true,
               bottom: const TabBar(
                 tabs: [
