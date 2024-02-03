@@ -14,4 +14,4 @@ Add the following on your pubspec.yaml
 
 ```
 
-The UI, 
+![The App UI](https://github.com/Evahns/Gen_AI-Flutter-app/blob/main/flutter%20app.png) 
