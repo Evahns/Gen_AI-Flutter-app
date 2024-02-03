@@ -1,16 +1,17 @@
 # call_gemini
 
-A new Flutter project.
+A Flutter App project to perform Gen AI tasks.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Add the following on your pubspec.yaml
+```dart
+  dependencies:
+  flutter:
+    sdk: flutter
+  google_gemini: ^0.1.2
+  image_picker: ^1.0.7
 
-A few resources to get you started if this is your first Flutter project:
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The UI, 
