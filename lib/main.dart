@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_gemini/google_gemini.dart';
-import 'dart:io';
-import 'package:image_picker/image_picker.dart';
 import "package:call_gemini/constants.dart";
 import 'package:call_gemini/Live_vision.dart' as LiveVision;
 import "package:call_gemini/Text_only.dart" as TextOnly;
